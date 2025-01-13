@@ -10,4 +10,4 @@ In case latex text in the Jupyter Notebook file is not renderred correctly, plea
 
 
 
-\faGithub\href{https://nbviewer.org/}{Nbviewer} web application.
+\href{https://nbviewer.org/}{Nbviewer} web application.
