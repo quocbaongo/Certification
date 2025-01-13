@@ -11,4 +11,6 @@ In case latex text in the Jupyter Notebook file is not renderred correctly, plea
 
 
 \href{https://nbviewer.org/}{Nbviewer} web application.
-[like this](http://someurl)
+
+
+
